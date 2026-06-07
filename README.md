@@ -23,7 +23,7 @@ This assessment verifies that you can:
 - Write a rollback runbook a tired on-call could execute
 
 ## Pick One Scenario
-
+   
 You **must** pick a scenario you did **not** use in earlier labs. Choose one:
 
 ### Scenario X — Personalized in-app recommendations (B2C retail)
